@@ -1,23 +1,35 @@
 img {
-  padding-left: 5px;
-  padding-right: 5px;
+  margin: 0.5em
+}
+
+#jakedellimg{
+  width: 100%;
+  height: auto;
+}
+
+#newkids2 {
+  width: 100%
+}
+
+#headerimg {
+  width:100%;
 }
 
 h1 {
   font-family: Roboto;
-  font-size: 40px;
+  font-size: 3em;
 }
 
 h2 {
   font-family: serif;
-  font-size: 27px;
-  padding-bottom: 20px;
+  font-size: 1.5em;
+  padding-bottom: 1em;
 }
 
 p {
   font-family: Roboto;
-  font-size: 20px;
-  line-height: inherit;
+  font-size: 1.2em;
+  line-height: 1.5em;
 }
 
 video {
@@ -33,25 +45,27 @@ video {
 
 #VidNewKid3 {
   float: left;
-  padding-right: 20px;
-  padding-bottom: 10px;
+  padding-right: 2em;
+  padding-bottom: 1em;
 }
 
 #VidNewKid4 {
-  float: left;
-  padding-right: 20px;
-  padding-bottom: 10px;
+  float: right;
+  padding-left: 2em;
+  padding-bottom: 1em;
 }
 
 .caption{
-  font-size: 12px;
+  font-size: 0.9em;
   text-align: center;
   font-style: oblique;
+  font-family: serif;
 }
 
 .container {
-  padding-left:250px;
-  padding-right: 250px;
+  align-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .PullQuote {
