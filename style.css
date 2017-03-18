@@ -95,3 +95,11 @@ p {
     -webkit-margin-end: 0px;
 }
 
+#Profile {
+  max-width: 50%;
+  float: right;
+  margin-right: 50px;
+  padding-left: 10px;
+
+}
+@media {width}
