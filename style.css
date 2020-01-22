@@ -178,7 +178,7 @@ img{
 }
 
 .bio-profile {
-  width: 45%;
+  width: 27%;
   height: auto;
   display: inline-block;
   float: left;
@@ -192,7 +192,7 @@ img{
 }
 
 .bio-description {
-  width: 50%;
+  width: 63%;
   height: auto;
   display: inline-block;
   margin-top: -15px;
